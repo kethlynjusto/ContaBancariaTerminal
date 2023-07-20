@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b0b6371-b88d-4fce-9f19-2087fcfb1f1c" name="Changes" comment="first commit" />
+    <list default="true" id="0b0b6371-b88d-4fce-9f19-2087fcfb1f1c" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ContaBancariaAtravesDoTerminal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesafiosCursoJava.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,6 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/kethl/Documents/Programação/Dio/Java/Desafios/DesafiosCursoJava",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -40,7 +52,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689783771439</updated>
-      <workItem from="1689783772773" duration="1962000" />
+      <workItem from="1689783772773" duration="3410000" />
+      <workItem from="1689868054370" duration="44000" />
+      <workItem from="1689868147217" duration="3390000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1689785743648</created>
@@ -49,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689785743648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1689785932318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689785932318</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
