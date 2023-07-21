@@ -1,3 +1,5 @@
+package br.com.DesafiosDioJavaBasico;
+
 import java.util.Scanner;
 
 public class ContaTerminal {

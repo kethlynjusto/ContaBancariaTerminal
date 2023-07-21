@@ -9,7 +9,7 @@ www.dio.me
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
 1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
-2. Dentro do projeto, crie a classe `ContaTerminal.java` para realizar toda a codificação do nosso programa.
+2. Dentro do projeto, crie a classe `br.com.DesafiosDioJavaBasico.ContaTerminal.java` para realizar toda a codificação do nosso programa.
 
 ###### Revise sobre regras de declaração de variáveis
 
@@ -35,13 +35,7 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-________________________________________________________________________________________________________________________________________________________________________
-
-# DIO - Trilha Java Básico
-www.dio.me
-
-#### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+.________________________________________________________________________________________________________________________________________________________________________
 
 ## Controle de Fluxo - Desafio
 
@@ -54,13 +48,13 @@ O sistema deverá receber dois parâmetros via terminal que representarão dois 
 
 
 1. Crie o projeto `DesafioControleFluxo`
-2. Dentro do projeto, crie a classe `Contador.java` para realizar toda a codificação do nosso programa.
+2. Dentro do projeto, crie a classe `br.com.DesafiosDioJavaBasico.Contador.java` para realizar toda a codificação do nosso programa.
 3. Dentro do projeto, crie a classe `ParametrosInvalidosException` que representará a exceção de negócio no sistema.
 
 Abaixo temos um trecho de código no qual você poderá seguir alterando as partes que contenham `??`
 
 ```java
-public class Contador {
+public class br.com.DesafiosDioJavaBasico.Contador {
 	public static void main(String[] args) {
 		Scanner terminal = new Scanner(System.in);
 		System.out.println("Digite o primeiro parâmetro");
@@ -85,3 +79,20 @@ public class Contador {
 	}
 }
 ```
+
+.________________________________________________________________________________________________________________________
+
+## POO - Desafio
+
+Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
+
+Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma ferramenta de UML de sua preferência a diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musicial,  Aparelho Telefônico e Navegador na Internet. Em seguida crie as classes e interfaces no formato de arquivos .java
+
+[Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
+
+- Minutos relevantes do 00:15 até 00:55
+
+###### Comportamentos esperados:
+* Repodutor Musicial: tocar, pausar, selecionarMusica
+* Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+* Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
